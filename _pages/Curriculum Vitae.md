@@ -7,4 +7,5 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-<p>img src=/images/Resume.jpg</p>
+![Resume](/images/Resume.jpg)
+Format: ![Alt Text](/images/Resume.jpg)
