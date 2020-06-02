@@ -7,4 +7,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-![Resume-1.jpg](attachment:Resume-1.jpg)
+<p>img src=/images/Resume.jpg</p>
