@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "NIshkarsh Jain"
+  name             : "Nishkarsh Jain"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Pune, India"
