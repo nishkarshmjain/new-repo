@@ -7,5 +7,5 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-![Resume](/images/Resume.jpg)
-Format: ![Alt Text](/images/Resume.jpg)
+
+![Alt Text](/images/Resume.jpg)
