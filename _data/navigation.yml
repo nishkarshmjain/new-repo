@@ -8,7 +8,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-  - title: "Curriculum Vitae"
-    url: /CV/
+  - title: "Resume"
+    url: /resume/
   # - title: "Sitemap"
   #   url: /sitemap/
