@@ -1,1 +1,10 @@
-![My%20Resume-1.jpg](attachment:My%20Resume-1.jpg)
+---
+title: "Resume"
+permalink: /resume/
+title: "Resume"
+author_profile: true
+
+---
+
+
+![Alt Text](/images/Resume.jpg)
