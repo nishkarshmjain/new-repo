@@ -9,8 +9,8 @@ mathjax: "true"
 ---
 
 
-# Simple Approaches to Recommender Systems
-## Popularity-Based Recommenders
+## Simple Approach to Recommender Systems
+
 
 
 ```python
