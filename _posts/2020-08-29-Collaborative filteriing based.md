@@ -1,3 +1,13 @@
+---
+title: "Collaborative Filtering-Based Recommender"
+date: 2020-03-20
+tags: [Machine Learning, Data Science, Recommendation Engine]
+header:
+  image: "/images/RFD/rc1.jpg"
+excerpt: "Machine Learning, Data Science, Recommendation Engine "
+mathjax: "true"
+---
+
 # Machine Learning Based Recommendation Systems
 ##  Model-based Collaborative Filtering Systems
 ## SVD Matrix Factorization
