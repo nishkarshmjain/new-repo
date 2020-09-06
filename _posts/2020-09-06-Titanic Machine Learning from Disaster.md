@@ -694,7 +694,7 @@ acc_decision_tree
 
 
 ```python
-#The above iterations could also be done in a single snipped 
+#The above iterations could also be done in a single snippet 
 
 
 algolist = [LogisticRegression(), SVC() , RandomForestClassifier() , KNeighborsClassifier() , GaussianNB() , 
