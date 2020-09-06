@@ -10,11 +10,9 @@ mathjax: "true"
 
 # Analysis and predictions on the most popular kaggle Titanic dataset
 
-### The data has been downloaded from https://www.kaggle.com/c/titanic.
+The data has been downloaded from https://www.kaggle.com/c/titanic.
 
-![alt text](titanic.jpeg)
-
-### This is a Jupyter notebook aimed at providing insights of major algorithms used in Data Analysis.
+This is a Jupyter notebook aimed at providing insights of major algorithms used in Data Analysis.
 
 
 ```python
