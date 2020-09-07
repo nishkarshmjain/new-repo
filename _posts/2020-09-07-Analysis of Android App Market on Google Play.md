@@ -307,10 +307,9 @@ var x = new MutationObserver(function (mutations, observer) {{
 
 // Listen for the removal of the full notebook cells
 var notebookContainer = gd.closest('#notebook-container');
-if (notebookContainer)
-	{{
+if (notebookContainer) {{
     x.observe(notebookContainer, {childList: true});
-	}}
+}}
 
 // Listen for the clearing of the current output cell
 var outputEl = gd.closest('.output');
@@ -439,11 +438,11 @@ plt2 = sns.jointplot(x = paid_apps['Price'], y = paid_apps['Rating'])
 ```
 
 
-![png](output_9_0.png)
+![png](notebook_files/notebook_9_0.png)
 
 
 
-![png](output_9_1.png)
+![png](notebook_files/notebook_9_1.png)
 
 
 ## 6. Relation between app category and app price
@@ -607,7 +606,7 @@ apps_above_200
 
 
 
-![png](output_11_1.png)
+![png](notebook_files/notebook_11_1.png)
 
 
 ## 7. Filter out "junk" apps
@@ -636,7 +635,7 @@ ax.set_title('App pricing trend across categories after filtering for junk apps'
 
 
 
-![png](output_13_1.png)
+![png](notebook_files/notebook_13_1.png)
 
 
 ## 8. Popularity of paid apps vs free apps
@@ -760,5 +759,5 @@ ax.set_title('Sentiment Polarity Distribution')
 
 
 
-![png](output_17_1.png)
+![png](notebook_files/notebook_17_1.png)
 
