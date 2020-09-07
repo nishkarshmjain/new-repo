@@ -1,6 +1,6 @@
 ---
 title: "Titanic: Machine Learning from Disaster"
-date: 2020-09-06
+date: 2020-09-07
 tags: [data wrangling, data science, data visualization]
 header:
 
