@@ -1,9 +1,9 @@
 ---
 title: "Analysis of Android App Market on Google Play"
 date: 2020-09-07
-tags: [data wrangling,data science, data visualization]
+tags: [data wrangling, data science, data visualization]
 header:
-
+image:
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
